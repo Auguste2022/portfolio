@@ -1,7 +1,7 @@
 # Data Analyst
 
-# Skills
-## Technical Skills include:
+## Skills
+### Technical Skills include:
 SQL
 Python
 Excel
@@ -16,7 +16,7 @@ Data Mining
 Data Cleaning and Preprocessing
 Descriptive Analysis
 
-## Soft skills include:
+### Soft skills include:
 Communication skills
 Problem solving skills.
 Attention to Detail
@@ -27,6 +27,6 @@ Ability to Work in a Fast-Paced Environment
 Data storytelling
 
 
-# Contact me
+## Contact me
 shikongoauguste7@gmail.com
 
