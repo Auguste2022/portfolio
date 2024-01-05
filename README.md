@@ -28,5 +28,5 @@ Data storytelling
 
 
 ## Contact me
-shikongoauguste7@gmail.com
+[shikongoauguste7@gmail.com](mailto:shikongoauguste7@gmail.com?subject=Mail_from_portfolio_website)
 
