@@ -10,25 +10,22 @@ Now, I’m enthusiastic about leveraging my expertise to bring a fresh perspecti
 
 Driven by a passion for uncovering patterns within data and translating them into actionable strategies, my goal extends beyond merely working in the field of data analysis. I aspire to thrive and continually develop, contributing to both my personal evolution and the collaborative success of the teams I join. Lastly, I am quick to learn and enjoy to new things 
 
-## How can I help?
-Drawing upon my experience as a former social work research assistant and programmer, I’ve cultivated a keen eye for detail and a dedication to rigorous analysis. These qualities, coupled with my ability to empathize and communicate effectively, inspire confidence in my capacity to offer a unique perspective to any data analysis team. I am excited about the opportunity to join a forward-thinking organization, where I can leverage my diverse background to drive innovation and enhance decision-making processes.
-
 # Projects
 ## Influenza Season Plan:
 ### Key Insights
 ### Understand the Influenza Death Rate per State
 - What is the influenza death rate per state, and which states have the highest and lowest influenza death rates?
   - Fig 1 displays the influenza death rate per state. Notably, displays has the highest  death rate, while New Mexico has the lowest
-  - [Figure 1](/assets/AugPortInstaFig1.png) 
+  - [![Figure 1](/assets/AugPortInstaFig4.png)](/assets/AugPortInstaFig1.png) 
 - What is the trend in influenza-related death rates among individuals aged 65 and above compared to those under 65 years over the period from 2009 to 2017?
   - Fig 2 shows a higher death rate among individuals aged 65 years and above and a lower death rate among those under 65 years from 2009-2017
 - Top Five States with High Influenza Death Rate
   - Fig 3 displays the top five states with high influenza death rates for individuals aged 65 and above: Illinois, Nebraska, Alaska, Georgia, and Missouri.
-  - [Figure 2 and 3](/assets/AugPortInstaFig2+3.png) 
+  - [![Figure 2 and 3](/assets/AugPortInstaFig4.png)](/assets/AugPortInstaFig2+3.png) 
 - Compare Influenza Death Rate Between 65 Years and Above and Under 65 Years (2009-2017).
   - How does the influenza death rate for individuals aged 65 years and above compare to those under 65 years between 2009 and 2017? Specifically, what are the respective death rates for each group during this period, and how do they differ?
   - Fig 4 shows a higher influenza death rate for individuals aged 65 years and above compared to the influenza death rate for those under 65 years from 2009 and 2017. For instance, in the year 2017, the influenza death rate for individuals aged 65 years and above was 0.002617, while for those under 65 years, it was 0.000529, indicating a higher death rate in the older age group.
-  - [Figure 4](/assets/AugPortInstaFig4.png) 
+  - [![Figure 4](/assets/AugPortInstaFig4.png)](/assets/AugPortInstaFig4.png) 
 
 
 
