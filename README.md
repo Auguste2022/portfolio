@@ -1,2 +1,3 @@
-# portfolio
+# Auguste Skikongo
+
 Auguste's portfolio website.
