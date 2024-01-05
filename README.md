@@ -1,4 +1,17 @@
 # Data Analyst
+#About me
+Greetings! I’m Auguste Shikongo, originally from Namibia and currently a proud permanent resident of the USA, residing in Indianapolis, IN. During my master’s and PhD levels, I ventured into social work, where I took statistical and advanced quantitative courses, discovering a newfound love for working with numbers. 
+
+When I took social work statistical and advanced quantitative courses during my master’s and PhD levels, I discovered that I loved working with numbers. This drove me to further with Career Foundry for a data analysis course to be equipped with elements of data analytics and tools. This passion propelled me to further my education with Career Foundry, specializing in data to gain proficiency in elements of data analytics and tools.
+
+Embarking on an exciting career transition from social work to data analysis. I bring a robust background in social work and education, honoring skills in empathy, problem-solving, and communication. Throughout my Career Foundry course, I developed analytical skills and gained proficiency in using technical tools, including Excel, SQL, Python, visualization, and data interpretation. 
+
+Now, I’m enthusiastic about leveraging my expertise to bring a fresh perspective to the field of data analysis. Beyond the numbers, my ability to see patterns, coupled with a passion for uncovering insights, positions me as asset to any team. I aspire to secure a full-time role as a Data Analyst, contributing my skills to interpret complex datasets and provide valuable insights for informed decision-making and organizational success.
+
+Driven by a passion for uncovering patterns within data and translating them into actionable strategies, my goal extends beyond merely working in the field of data analysis. I aspire to thrive and continually develop, contributing to both my personal evolution and the collaborative success of the teams I join. Lastly, I am quick to learn and enjoy to new things 
+
+## How can I help?
+Drawing upon my experience as a former social work research assistant and programmer, I’ve cultivated a keen eye for detail and a dedication to rigorous analysis. These qualities, coupled with my ability to empathize and communicate effectively, inspire confidence in my capacity to offer a unique perspective to any data analysis team. I am excited about the opportunity to join a forward-thinking organization, where I can leverage my diverse background to drive innovation and enhance decision-making processes.
 
 # Projects
 ## Influenza Season Plan:
