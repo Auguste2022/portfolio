@@ -1,5 +1,5 @@
 # Data Analyst
-#About me
+# About me
 Greetings! I’m Auguste Shikongo, originally from Namibia and currently a proud permanent resident of the USA, residing in Indianapolis, IN. During my master’s and PhD levels, I ventured into social work, where I took statistical and advanced quantitative courses, discovering a newfound love for working with numbers. 
 
 When I took social work statistical and advanced quantitative courses during my master’s and PhD levels, I discovered that I loved working with numbers. This drove me to further with Career Foundry for a data analysis course to be equipped with elements of data analytics and tools. This passion propelled me to further my education with Career Foundry, specializing in data to gain proficiency in elements of data analytics and tools.
