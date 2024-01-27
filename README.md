@@ -1,14 +1,12 @@
 # Data Analyst
 # About me
-Greetings! I’m Auguste Shikongo, originally from Namibia and currently a proud permanent resident of the USA, residing in Indianapolis, IN. During my master’s and PhD levels, I ventured into social work, where I took statistical and advanced quantitative courses, discovering a newfound love for working with numbers. 
+Greetings! I’m Auguste Shikongo, originally from Namibia and now a proud permanent resident of the USA, based in Indianapolis, IN. With a background in social work at the maters’s and Ph.D levels, I discovered a passion for working with numbers, leading me to pursue further education in data analysis with Career Foundry
 
-When I took social work statistical and advanced quantitative courses during my master’s and PhD levels, I discovered that I loved working with numbers. This drove me to further with Career Foundry for a data analysis course to be equipped with elements of data analytics and tools. This passion propelled me to further my education with Career Foundry, specializing in data to gain proficiency in elements of data analytics and tools.
+Transitioning from social work to data analysis, I bring a blend of empathy, problem-soling, and communication skills. Through my Career Foundry course, I honed analytical abilities and gained proficiency in tools like Excel, SQL, Python, and data visualization.
 
-Embarking on an exciting career transition from social work to data analysis. I bring a robust background in social work and education, honoring skills in empathy, problem-solving, and communication. Throughout my Career Foundry course, I developed analytical skills and gained proficiency in using technical tools, including Excel, SQL, Python, visualization, and data interpretation. 
+Now, I m, excited to apply my experience to the field of data analysis. Beyond crunching numbers, I excel at spotting patterns and uncovering insights that drive informed decision-making. My goal is to secure a full-time role where I can leverage my skills to interpret complex datasets and contribute to organizational success.
 
-Now, I’m enthusiastic about leveraging my expertise to bring a fresh perspective to the field of data analysis. Beyond the numbers, my ability to see patterns, coupled with a passion for uncovering insights, positions me as asset to any team. I aspire to secure a full-time role as a Data Analyst, contributing my skills to interpret complex datasets and provide valuable insights for informed decision-making and organizational success.
-
-Driven by a passion for uncovering patterns within data and translating them into actionable strategies, my goal extends beyond merely working in the field of data analysis. I aspire to thrive and continually develop, contributing to both my personal evolution and the collaborative success of the teams I join. Lastly, I am quick to learn and enjoy to new things 
+Driven by a passion for uncovering data patterns and translating them into actionable strategies, I aim continual growth and contribution to team success. I thrive on learning new things and am eager to tackle new challenges.
 
 # Projects
 ## Influenza Season Plan:
