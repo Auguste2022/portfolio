@@ -22,7 +22,6 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-        <p><a href="">Case Study</a></p>
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
@@ -32,10 +31,12 @@
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
 
+        <p><a href="assets/CaseStudy">Case Study</a></p>
+
         {% if site.show_downloads %}
         <ul class="downloads">
-          <li><a href="">Download <strong>Portfolio</strong></a></li>
-          <li><a href="assets/AUGUSTE S RESUME .pdf">Download <strong>Resume</strong></a></li>
+          <li><a href="assets/Portfolio">Download <strong>Portfolio</strong></a></li>
+          <li><a href="assets/Resume.pdf">Download <strong>Resume</strong></a></li>
           <li><a href="https://www.linkedin.com/in/auguste-shikongo/">View On <strong>LinkedIn</strong></a></li>
         </ul>
         {% endif %}
