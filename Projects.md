@@ -1,3 +1,3 @@
 # Projects
 
-[Home](./)
+[Home](./) &emsp; [Projects](./Projects.html)
