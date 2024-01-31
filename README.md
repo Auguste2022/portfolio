@@ -1,7 +1,7 @@
 
 # Data Analyst
 
-[Link to projects](./Projects.html).
+[Projects](./Projects.html).
 
 Greetings! I’m Auguste Shikongo, originally from Namibia and now a proud permanent resident of the USA, based in Indianapolis, IN. With a background in social work at the maters’s and Ph.D levels, I discovered a passion for working with numbers, leading me to pursue further education in data analysis with Career Foundry
 
