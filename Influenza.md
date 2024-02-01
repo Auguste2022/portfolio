@@ -1,6 +1,6 @@
 # Influenza Season Plan
 
-[Home](./) &emsp; [Projects](./Projects.html) &emsp; [Contact](./Contact.html)
+[Home](./) &emsp; [Projects](./Projects.html) &emsp; [Case Study](assets/CaseStudy.pdf) &emsp; [Contact](./Contact.html)
 
 [![Preparing for Flu season USA 1](assets/Preparing for Flu Season in the USA 1.png)](assets/Preparing for Flu Season in the USA 1.png)
 
