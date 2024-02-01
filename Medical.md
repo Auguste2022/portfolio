@@ -1,6 +1,6 @@
 # Medical Cost Personal
 
-[Home](./) &emsp; [Projects](./Projects.html) &emsp; [Contact](./Contact.html)
+[Home](./) &emsp; [Projects](./Projects.html) &emsp; [Case Study](assets/CaseStudy.pdf) &emsp; [Contact](./Contact.html)
 
 [![Analyzing Medical Cost Personal slide 1](assets/AnalyzingMedicalCostPersonal1.png)](assets/AnalyzingMedicalCostPersonal1.png)
 
