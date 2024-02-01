@@ -1,6 +1,6 @@
 # Rockbuster Stealth LLC
 
-[Home](./) &emsp; [Projects](./Projects.html) &emsp; [Contact](./Contact.html)
+[Home](./) &emsp; [Projects](./Projects.html) &emsp; [Case Study](assets/CaseStudy.pdf) &emsp; [Contact](./Contact.html)
 
 [![Answering business questions for an online video rental company 1](assets/Answering business questions for an online video rental company 1.png)](assets/Answering business questions for an online video rental company 1.png)
 
