@@ -10,8 +10,3 @@ Transitioning from social work to data analysis, I bring a blend of empathy, pro
 Now, I m, excited to apply my experience to the field of data analysis. Beyond crunching numbers, I excel at spotting patterns and uncovering insights that drive informed decision-making. My goal is to secure a full-time role where I can leverage my skills to interpret complex datasets and contribute to organizational success.
 
 Driven by a passion for uncovering data patterns and translating them into actionable strategies, I aim continual growth and contribution to team success. I thrive on learning new things and am eager to tackle new challenges.
-
-## Contact me
-[shikongoauguste7@gmail.com](mailto:shikongoauguste7@gmail.com?subject=Mail_from_portfolio_website)
-
-[LinkedIn](https://www.linkedin.com/in/auguste-shikongo-78a6742a7/)
