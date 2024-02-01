@@ -1,6 +1,6 @@
 # Instacart Basket Analysis
 
-[Home](./) &emsp; [Projects](./Projects.html) &emsp; [Contact](./Contact.html)
+[Home](./) &emsp; [Projects](./Projects.html) &emsp; [Case Study](assets/CaseStudy.pdf) &emsp; [Contact](./Contact.html)
 
 [![Marketing strategy for an online grocery store 1](assets/Marketing strategy for an online grocery store 1.png)](assets/Marketing strategy for an online grocery store 1.png)
 
