@@ -7,3 +7,5 @@
 [Marketing strategy for an online grocery store](./Instacart.html)
 
 [Answering business questions for an online video rental company](./Rockbuster.html)
+
+[Preparing for Flu season in the USA](./Influenza.html)
