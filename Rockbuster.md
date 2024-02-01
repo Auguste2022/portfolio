@@ -8,4 +8,4 @@
 
 [![Answering business questions for an online video rental company 3](assets/Answering business questions for an online video rental company 3.png)](assets/Answering business questions for an online video rental company 3.png)
 
-[![Answering business questions for an online video rental company 4](assets/Answering business questions for an online video rental company 4.png)](assets/Answering business questions for an online video rental company 4.png)
+[![Answering business questions for an online video rental company 4](assets/Answering business questions for an online video rental company  4.png)](assets/Answering business questions for an online video rental company  4.png)
