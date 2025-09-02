@@ -3,10 +3,12 @@
 
 [Home](./) &emsp; [Projects](./Projects.html) &emsp; [Case Study](assets/CaseStudy.pdf) &emsp; [Contact](./Contact.html)
 
-Greetings! I’m Auguste Shikongo, originally from Namibia and now a proud permanent resident of the USA, based in Indianapolis, IN. With a background in social work at the maters’s and Ph.D levels, I discovered a passion for working with numbers, leading me to pursue further education in data analysis with Career Foundry
+Greetings! I’m Auguste Shikongo — a Healthcare Data Analyst and Public Health Researcher originally from Namibia, now proudly based in Indianapolis, IN as a U.S. permanent resident.
 
-Transitioning from social work to data analysis, I bring a blend of empathy, problem-soling, and communication skills. Through my Career Foundry course, I honed analytical abilities and gained proficiency in tools like Excel, SQL, Python, and data visualization.
+With a completed Ph.D. and Master’s in Social Work, and over 8 years of experience in healthcare analytics, public health research, and program evaluation across both international and U.S. settings, I specialize in transforming complex health data into actionable insights. I also hold a Data Analytics certificate from CareerFoundry.
 
-Now, I m, excited to apply my experience to the field of data analysis. Beyond crunching numbers, I excel at spotting patterns and uncovering insights that drive informed decision-making. My goal is to secure a full-time role where I can leverage my skills to interpret complex datasets and contribute to organizational success.
+My work spans behavioral health, primary care, and population health systems — using tools like Python, SQL, Tableau, and SPSS to improve patient outcomes, inform policy, and support evidence-based decisions. I’ve led projects building predictive models, clinician dashboards, and national-level health tracking systems.
 
-Driven by a passion for uncovering data patterns and translating them into actionable strategies, I aim continual growth and contribution to team success. I thrive on learning new things and am eager to tackle new challenges.
+Whether it's enhancing behavioral health interventions or shaping strategic health planning, I bring a unique blend of domain expertise, analytical rigor, and cross-cultural experience. I'm passionate about data-driven solutions that make healthcare smarter, more equitable, and more impactful.
+
+Let’s connect — I’m open to new opportunities, collaborations, and conversations that drive change through data.
